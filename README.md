@@ -1,3 +1,17 @@
+## Deploy
+
+### Manual deployment
+
+s3 bucket without cloudfront: http://aws-cloud-front-toy-store.s3-website-eu-west-1.amazonaws.com/
+
+s3 bucket with cloudfront: https://d1bum2l5oc5z3i.cloudfront.net
+
+### Automated deployment
+
+using serverless-finch + serverless single-page-app plugins: https://d2nynlk8lfn4nz.cloudfront.net
+
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
